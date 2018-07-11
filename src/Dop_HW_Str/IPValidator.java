@@ -11,7 +11,7 @@ public class IPValidator {
         IPValidator ipValidator = new IPValidator();
 
             System.out.println("Результат: " + ipValidator.validate("192.168.0.0"));
-            System.out.println("Результат: " + ipValidator.validate("192.168.0"));
+            System.out.println("Результат: " + ipValidator.validate("300.168.0.400"));
             System.out.println("Результат: " + ipValidator.validate("192"));
             System.out.println("Результат: " + ipValidator.validate("225.225.225.0"));
             System.out.println("Результат: " + ipValidator.validate("8.8.8.8"));
