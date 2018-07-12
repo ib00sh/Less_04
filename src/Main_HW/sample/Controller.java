@@ -31,7 +31,7 @@ public class Controller {
     private void showDialog() {
         Alert dialog = new Alert(Alert.AlertType.INFORMATION);
         dialog.initStyle(StageStyle.UTILITY);
-        dialog.setTitle("Ошибка");
+        dialog.setTitle("Ошибка!");
         dialog.setHeaderText("Вы ничего не ввели");
         dialog.showAndWait();
     }
