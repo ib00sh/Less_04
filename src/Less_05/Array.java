@@ -11,13 +11,13 @@ public class Array {
        for (int i = 0; i < arr.length ; i++) {
            arr[i] = 1;
        }
-       System.out.println("Время наполнения массива: " + a);
+       System.out.println(" Время наполнения массива: " + a);
 
        for (int i = 0; i < arr.length ; i++) {
            arr[i] = (float)(arr[i] * Math.sin(0.2f + i / 5) *
                    Math.cos(0.2f + i / 5) * Math.cos(0.4f + i / 2));
        }
-       System.out.println("Время выполнения метода №1: " + (System.currentTimeMillis() - a));
+       System.out.println(" Время выполнения метода №1: " + (System.currentTimeMillis() - a));
    }
     void part_arr(){
     final int THREADS_COUNT = 2;
@@ -46,6 +46,6 @@ public class Array {
         for (int i = 0; i < THREADS_COUNT; i++) {
         System.arraycopy(arr2[i], 0, arr, i * h, h);
     }
-        System.out.println("Время выполнения метода №2: " + (System.currentTimeMillis() - a));
+        System.out.println(" Время выполнения метода №2: " + (System.currentTimeMillis() - a));
     }
 }
