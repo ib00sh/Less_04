@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="b70fdfd3-a0a0-4024-b8e8-8e99a8c731a3" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Dop_HW_Str/IPValidator.java" beforeDir="false" />
@@ -13,6 +14,9 @@
       <change beforePath="$PROJECT_DIR$/src/Main_HW/sample/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main_HW/sample/sample.fxml" beforeDir="false" />
     </list>
+=======
+    <list default="true" id="b70fdfd3-a0a0-4024-b8e8-8e99a8c731a3" name="Default" comment="" />
+>>>>>>> master
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,8 +30,13 @@
       <file leaf-file-name="Array.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Less_05/Array.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="408">
               <caret line="29" column="42" lean-forward="true" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+=======
+            <state relative-caret-position="421">
+              <caret line="45" column="49" lean-forward="true" selection-start-line="45" selection-start-column="49" selection-end-line="45" selection-end-column="49" />
+>>>>>>> master
             </state>
           </provider>
         </entry>
@@ -36,7 +45,11 @@
         <entry file="file://$PROJECT_DIR$/src/Less_05/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
+<<<<<<< HEAD
               <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+=======
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+>>>>>>> master
             </state>
           </provider>
         </entry>
@@ -98,6 +111,15 @@
               <item name="Less_04-master" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
+=======
+            <path>
+              <item name="Less_04-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Less_04-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Less_05" type="462c0819:PsiDirectoryNode" />
+            </path>
+>>>>>>> master
           </expand>
           <select />
         </subPane>
@@ -263,10 +285,17 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5006196" side_tool="true" visible="true" weight="0.32146597" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49956858" weight="0.32879582" />
       <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.4993804" visible="true" weight="0.32146597" />
+=======
+      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.5006196" side_tool="true" visible="true" weight="0.32146597" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49956858" weight="0.32879582" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4993804" visible="true" weight="0.32146597" />
+>>>>>>> master
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -318,6 +347,93 @@
     <option name="UPDATE_GROUP_BY_PACKAGES" value="true" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/src/Main_HW/sample/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Less_05/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="48" column="53" lean-forward="true" selection-start-line="48" selection-start-column="53" selection-end-line="48" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Less_05/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" column="57" lean-forward="true" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Less_05/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Less_05/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Less_05/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Less_05/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="31" column="49" lean-forward="true" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Less_05/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Less_05/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Less_05/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Less_05/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Less_05/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> master
     <entry file="file://$PROJECT_DIR$/src/Less_05/Array.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -346,84 +462,132 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Less_04/Main_HW/sample/Main.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/Main_HW/sample/Main.java">
+>>>>>>> master
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Less_04/Main_HW/sample/Controller.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/Main_HW/sample/Controller.java">
+>>>>>>> master
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Less_04/Dop_HW_Str/IPValidator.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/Dop_HW_Str/IPValidator.java">
+>>>>>>> master
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Less_04/Main_HW/sample/Main.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/Main_HW/sample/Main.java">
+>>>>>>> master
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Less_04/Main_HW/sample/Controller.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/Main_HW/sample/Controller.java">
+>>>>>>> master
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Less_04/Dop_HW_Str/IPValidator.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/Dop_HW_Str/IPValidator.java">
+>>>>>>> master
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Less_04/Main_HW/sample/Main.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/Main_HW/sample/Main.java">
+>>>>>>> master
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Less_04/Dop_HW_Str/IPValidator.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/Dop_HW_Str/IPValidator.java">
+>>>>>>> master
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Less_04/Main_HW/sample/Controller.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/Main_HW/sample/Controller.java">
+>>>>>>> master
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Less_04/Main_HW/sample/Main.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/Main_HW/sample/Main.java">
+>>>>>>> master
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Less_04/Main_HW/css/Styles.css">
+=======
+    <entry file="file://$PROJECT_DIR$/src/Main_HW/css/Styles.css">
+>>>>>>> master
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Less_04/Main_HW/sample/Controller.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/Main_HW/sample/Controller.java">
+>>>>>>> master
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
@@ -432,49 +596,77 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Dop_HW_Swing/SubWimdow.java" />
     <entry file="file://$PROJECT_DIR$/src/Main_HW.java" />
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Less_04/Dop_HW_Swing/launch_window.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/Dop_HW_Swing/launch_window.java">
+>>>>>>> master
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Less_04/Dop_HW_Swing/MyWindow.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/Dop_HW_Swing/MyWindow.java">
+>>>>>>> master
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="590">
           <caret line="46" column="40" selection-start-line="46" selection-start-column="40" selection-end-line="46" selection-end-column="40" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Less_04/Dop_HW_Swing/SubWindow.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/Dop_HW_Swing/SubWindow.java">
+>>>>>>> master
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="39" lean-forward="true" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Less_04/Main_HW/css/Styles.css">
+=======
+    <entry file="file://$PROJECT_DIR$/src/Main_HW/css/Styles.css">
+>>>>>>> master
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Less_04/Dop_HW_Str/IPValidator.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/Dop_HW_Str/IPValidator.java">
+>>>>>>> master
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Less_04/Main_HW/sample/Controller.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/Main_HW/sample/Controller.java">
+>>>>>>> master
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Less_04/Main_HW/sample/Main.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/Main_HW/sample/Main.java">
+>>>>>>> master
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
@@ -484,18 +676,31 @@
     <entry file="file://$PROJECT_DIR$/src/Less_05/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
+<<<<<<< HEAD
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+=======
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+>>>>>>> master
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Less_05/Array.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="408">
           <caret line="29" column="42" lean-forward="true" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Less_04/Main_HW/sample/Main.java">
+=======
+        <state relative-caret-position="421">
+          <caret line="45" column="49" lean-forward="true" selection-start-line="45" selection-start-column="49" selection-end-line="45" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main_HW/sample/Main.java">
+>>>>>>> master
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
@@ -601,11 +806,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="590">
           <caret line="46" column="40" selection-start-line="46" selection-start-column="40" selection-end-line="46" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#894#895#0" expanded="true" />
-            <element signature="e#948#949#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -627,11 +827,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-            <element signature="e#592#593#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -642,7 +837,11 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Less_04/Main_HW/sample/Controller.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/Main_HW/sample/Controller.java">
+>>>>>>> master
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
